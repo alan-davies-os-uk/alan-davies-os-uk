@@ -10,9 +10,10 @@ SDET with test automation focus.
 
 ```java
 Enum Language {
-  CPP,
   JAVA,
   PYTHON,
+  SQL,
+  CPP,
   C_SHARP,
   LUA;
 }
